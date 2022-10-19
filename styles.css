@@ -25,9 +25,18 @@ body {
   
   .about-section {
     padding: 50px;
-    text-align: center;
-    background-color: #474e5d;
+    /* text-align: center; */
+    background-color: #33ac94;
     color: white;
+  }
+
+  .contact-info {
+    text-align: left;
+  }
+
+  .contact-info-icon {
+    width: 16px;
+    height: auto;
   }
   
   .container {
